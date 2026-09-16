@@ -12,11 +12,6 @@
   <img src="https://streak-stats.demolab.com/?user=joffx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joffx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joffx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
 <!--
 References to customize or swap these cards:
 
